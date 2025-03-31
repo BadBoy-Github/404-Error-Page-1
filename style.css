@@ -8,3 +8,26 @@ header {
     text-transform: uppercase;
     font-weight: bold;
 }
+
+main {
+    font-family: "Space Mono", monospace;
+}
+
+div {
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    width: 300px;
+    float: right;
+    margin-right: 30px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 2;
+    color: #333333;
+}
