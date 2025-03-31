@@ -1,1 +1,10 @@
 
+header {
+    height: 100px;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-top: 50px;
+    font-family: "Inconsolata", monospace;
+    text-transform: uppercase;
+    font-weight: bold;
+}
